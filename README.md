@@ -24,7 +24,7 @@ git --version
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/BCS-Group/ndms-ui.git
+git clone https://github.com/victor-otim/ndms-ui.git
 cd ndms-ui
 ```
 
